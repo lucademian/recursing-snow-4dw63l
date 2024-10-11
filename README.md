@@ -1,4 +1,4 @@
-# Example of Issue with MSW v4.4.4
+# Example of Issue with MSW v2.4.4
 
 - Tests using abort signals with graphql
 - Run `npm test`
