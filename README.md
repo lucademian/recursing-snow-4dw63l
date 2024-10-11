@@ -1,5 +1,8 @@
-# Vitest + MSW
+# Example of Issue with MSW v4.4.4
 
-[Mock Service Worker](https://github.com/mswjs/msw) usage example with [Vitest](https://github.com/vitest-dev/vitest).
-
-[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/mswjs/examples/tree/main/examples/with-vitest)
+- Tests using abort signals with graphql
+- Run `npm test`
+  - Fails on `v4.4.4`
+  - Succeeds on `v4.4.3`
+ 
+[![Edit lucademian/recursing-snow-4dw63l/main](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/lucademian/recursing-snow-4dw63l/main?embed=1)
